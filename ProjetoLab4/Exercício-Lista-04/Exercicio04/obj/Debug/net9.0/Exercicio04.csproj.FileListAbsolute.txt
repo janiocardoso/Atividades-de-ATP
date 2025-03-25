@@ -1,0 +1,14 @@
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.AssemblyInfoInputs.cache
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.AssemblyInfo.cs
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.csproj.CoreCompileInputs.cache
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\bin\Debug\net9.0\Exercicio04.exe
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\bin\Debug\net9.0\Exercicio04.deps.json
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\bin\Debug\net9.0\Exercicio04.runtimeconfig.json
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\bin\Debug\net9.0\Exercicio04.dll
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\bin\Debug\net9.0\Exercicio04.pdb
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.dll
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\refint\Exercicio04.dll
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.pdb
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\Exercicio04.genruntimeconfig.cache
+D:\ATP\Lab\ProjetoLab4\Exercício-Lista-04\Exercicio04\obj\Debug\net9.0\ref\Exercicio04.dll

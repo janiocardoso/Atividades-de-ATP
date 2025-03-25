@@ -1,0 +1,14 @@
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\bin\Debug\net9.0\projetolab4b.exe
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\bin\Debug\net9.0\projetolab4b.deps.json
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\bin\Debug\net9.0\projetolab4b.runtimeconfig.json
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\bin\Debug\net9.0\projetolab4b.dll
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\bin\Debug\net9.0\projetolab4b.pdb
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.AssemblyInfoInputs.cache
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.AssemblyInfo.cs
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.csproj.CoreCompileInputs.cache
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.dll
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\refint\projetolab4b.dll
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.pdb
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\projetolab4b.genruntimeconfig.cache
+D:\ATP\Lab\ProjetoLab4b\projetolab4b\obj\Debug\net9.0\ref\projetolab4b.dll

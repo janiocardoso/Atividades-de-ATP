@@ -1,0 +1,14 @@
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\bin\Debug\net9.0\ProjetoSelecao01.exe
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\bin\Debug\net9.0\ProjetoSelecao01.deps.json
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\bin\Debug\net9.0\ProjetoSelecao01.runtimeconfig.json
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\bin\Debug\net9.0\ProjetoSelecao01.dll
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\bin\Debug\net9.0\ProjetoSelecao01.pdb
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.AssemblyInfoInputs.cache
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.AssemblyInfo.cs
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.csproj.CoreCompileInputs.cache
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.dll
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\refint\ProjetoSelecao01.dll
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.pdb
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ProjetoSelecao01.genruntimeconfig.cache
+D:\ATP\Lab\ProjetoLab4\ProjetoSelecao01\obj\Debug\net9.0\ref\ProjetoSelecao01.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "projetolab4b/1.0.0": {
+        "runtime": {
+          "projetolab4b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetolab4b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

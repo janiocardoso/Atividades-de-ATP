@@ -1,0 +1,14 @@
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.AssemblyInfoInputs.cache
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.AssemblyInfo.cs
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.csproj.CoreCompileInputs.cache
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\bin\Debug\net8.0\ProjetoLab2.exe
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\bin\Debug\net8.0\ProjetoLab2.deps.json
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\bin\Debug\net8.0\ProjetoLab2.runtimeconfig.json
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\bin\Debug\net8.0\ProjetoLab2.dll
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\bin\Debug\net8.0\ProjetoLab2.pdb
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.dll
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\refint\ProjetoLab2.dll
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.pdb
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ProjetoLab2.genruntimeconfig.cache
+D:\ATP\projetos\Lab02\ProjetoLab2\ProjetoLab2\obj\Debug\net8.0\ref\ProjetoLab2.dll
