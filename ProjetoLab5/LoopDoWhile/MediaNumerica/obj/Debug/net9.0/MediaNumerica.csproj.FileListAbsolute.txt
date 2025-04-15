@@ -1,0 +1,14 @@
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\bin\Debug\net9.0\MediaNumerica.exe
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\bin\Debug\net9.0\MediaNumerica.deps.json
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\bin\Debug\net9.0\MediaNumerica.runtimeconfig.json
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\bin\Debug\net9.0\MediaNumerica.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\bin\Debug\net9.0\MediaNumerica.pdb
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.AssemblyInfoInputs.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.AssemblyInfo.cs
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.csproj.CoreCompileInputs.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\refint\MediaNumerica.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.pdb
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\MediaNumerica.genruntimeconfig.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MediaNumerica\obj\Debug\net9.0\ref\MediaNumerica.dll

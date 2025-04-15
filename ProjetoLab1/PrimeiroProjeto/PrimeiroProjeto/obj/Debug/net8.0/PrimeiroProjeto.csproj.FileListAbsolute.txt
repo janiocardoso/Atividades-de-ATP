@@ -12,3 +12,18 @@ D:\ATP\projetos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0
 D:\ATP\projetos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
 D:\ATP\projetos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
 D:\ATP\projetos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\ATP\Todas Atividades\Atividades-de-ATP\ProjetoLab1\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll

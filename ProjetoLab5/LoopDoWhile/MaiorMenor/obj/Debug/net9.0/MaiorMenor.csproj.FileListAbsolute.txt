@@ -1,0 +1,14 @@
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\bin\Debug\net9.0\MaiorMenor.exe
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\bin\Debug\net9.0\MaiorMenor.deps.json
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\bin\Debug\net9.0\MaiorMenor.runtimeconfig.json
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\bin\Debug\net9.0\MaiorMenor.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\bin\Debug\net9.0\MaiorMenor.pdb
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.AssemblyInfoInputs.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.AssemblyInfo.cs
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.csproj.CoreCompileInputs.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\refint\MaiorMenor.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.pdb
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\MaiorMenor.genruntimeconfig.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\MaiorMenor\obj\Debug\net9.0\ref\MaiorMenor.dll

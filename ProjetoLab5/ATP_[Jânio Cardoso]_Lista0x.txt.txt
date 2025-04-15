@@ -1,0 +1,551 @@
+Conteúdo do arquivo ATP_Jânio Cardoso_Lista0x.txt:
+
+ Exercicio01: 
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 10/04/2025 (quinta-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+using System;
+
+namespace Exercicio01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //definindo as variaveis do programa
+            int valor = 0;
+            int contadorpositivo = 0;
+            int contadorneutro = 0;
+            int contadornegativo = 0;
+
+            //encerrar programa
+            Console.WriteLine("Digite 999 para encerrar o programa: ");
+
+            //loop de repeticao com condicoes 
+            do
+            {
+                Console.Write("Valor: ");
+                valor = int.Parse(Console.ReadLine());
+
+                if (valor == 999)
+                {
+                    break;
+                }
+
+                else if (valor > 0)
+                {
+                    contadorpositivo++;
+                }
+                else if (valor == 0)
+                {
+                    contadorneutro++;
+                }
+                else
+                {
+                    contadornegativo++;
+                }
+
+            } while (true);
+
+            //Dando o resultado ao usuário
+            Console.WriteLine($"O total de numeros positivos:{contadorpositivo}, neutros: {contadorneutro} e negativos: {contadornegativo}.");
+        }
+    }
+}
+
+
+
+Exercicio02: 
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 10/04/2025 (quinta-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+using System;
+
+namespace Exercicio02
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //definindo as variaveis do programa(adicionado totalvalores)
+            int valor = 0;
+            int contadorpositivo = 0;
+            int contadorneutro = 0;
+            int contadornegativo = 0;
+            int totalvalores = 0;
+
+
+
+            //encerrar programa
+            Console.WriteLine("Digite 999 para encerrar o programa: ");
+
+            //loop de repeticao com condicoes 
+            do
+            {
+                Console.Write("Valor: ");
+                valor = int.Parse(Console.ReadLine());
+
+                if (valor == 999)
+                {
+                    break;
+                }
+
+                //conta todos os valores
+                totalvalores++;
+
+                if (valor > 0)
+                {
+                    contadorpositivo++;
+                }
+                else if (valor == 0)
+                {
+                    contadorneutro++;
+                }
+                else
+                {
+                    contadornegativo++;
+                }
+
+            } while (true);
+
+            //Dando os resultados ao usuário
+            Console.WriteLine($"\nTotal de valores fornecidos: {totalvalores}");
+            Console.WriteLine($"O total de numeros positivos: {contadorpositivo} ({(contadorpositivo * 100.0 / totalvalores):F2})%");
+            Console.WriteLine($"O total de 0: {contadorneutro} ({(contadorneutro * 100.0 / totalvalores):F2}%)");
+            Console.WriteLine($"O total de numeros negativos: {contadornegativo} ({(contadornegativo * 100.0 / totalvalores):F2})%");
+        }
+    }
+}
+
+
+
+Exercicio03:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 10/04/2025 (quinta-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+using System;
+
+namespace Exercicio03
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Declaração de variáveis
+
+            int divisivel3e9 = 0;
+            int divisivel2 = 0;
+            int divisivel5 = 0;
+
+            //usando o for para um loop limitado a 10 valores.
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.Write($"Digite o {i}º número: ");
+                int numero = int.Parse(Console.ReadLine());
+                bool divisivel = false;
+
+                //valor divisivel por 9 e 3
+                if (numero % 3 == 0 && numero % 9 == 0)
+                {
+                    Console.WriteLine("Divisivel por 3 e 9");
+                    divisivel3e9++;
+                    divisivel = true;
+                }
+
+                //valor divisivel por 2
+                if (numero % 2 == 0)
+                {
+                    Console.WriteLine("Divisivel por 2");
+                    divisivel2++;
+                    divisivel = true;
+                }
+
+                //valor divisivel por 5
+                if (numero % 5 == 0)
+                {
+                    Console.WriteLine("Divisivel por 5");
+                    divisivel5++;
+                    divisivel = true;
+                }
+
+                if (!divisivel)
+                {
+                    Console.WriteLine(" Número não é divisível pelos valores");
+                }
+                // Para sair do loop
+                if (numero == 999)
+                {
+                    Console.WriteLine("Encerrando o programa.");
+                    break;
+                }
+
+                Console.WriteLine($"Quantidade de números divisíveis por 3 e 9: {divisivel3e9}");
+                Console.WriteLine($"Quantidade de números divisíveis por 2: {divisivel2}");
+                Console.WriteLine($"Quantidade de números divisíveis por 5: {divisivel5}");
+
+            }
+        }
+    }
+}
+
+Exercicio04:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 12/04/2025 (sábado)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+namespace Exercicio04
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.Write("Digite um valor inteiro e positivo N: ");
+            int N = int.Parse(Console.ReadLine());
+
+            double E = 1.0;
+
+            // Inicializa a variável do fatorial, começando com 1.
+            double fatorial = 1;
+
+            for (int i = 1; i <= N; i++)
+            {
+
+                // Calcula o fatorial de i 
+                fatorial = fatorial * i;
+
+                E += 1.0 / fatorial;
+            }
+
+            Console.WriteLine("O valor de E é: " + E);
+
+        }
+    }
+}
+
+
+Exercicio05:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 12/04/2025 (sábado)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+
+using System; 
+
+namespace Exercicio05
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double totalSalario = 0;
+            int totalFilhos = 0;
+            double maiorSalario = 0;
+            double salariosAte100 = 0;
+            int habitantes = 0;
+            double salario;
+            int filhos;
+
+            // Início do loop que vai até o usuário informar um salário negativo
+            do
+            {
+                Console.WriteLine("Digite o seu salário (negativo se quiser encerrar): ");
+                salario = double.Parse(Console.ReadLine());
+
+                // Condição de parada do programa
+                if (salario < 0)
+                    break;
+
+                Console.WriteLine("Digite quantos filhos tem na sua residência: ");
+                filhos = int.Parse(Console.ReadLine());
+
+                // Atualiza os acumuladores com os dados lidos
+                totalSalario += salario;
+                totalFilhos += filhos;
+                habitantes++; // Conta um novo habitante
+
+
+                if (salario > maiorSalario)
+                {
+                    maiorSalario = salario; 
+                }
+
+
+                if (salario <= 100)
+                {
+                    salariosAte100++;
+                }
+
+            } while (salario >= 0);
+
+
+            if (habitantes > 0)
+            {
+                // Cálculo das médias e percentual
+                double mediaSalario = totalSalario / habitantes;
+                double mediaFilhos = (double)totalFilhos / habitantes;
+                double percentualSalariosAte100 = (salariosAte100 / habitantes) * 100;
+
+                Console.WriteLine($"A média do salário da população é: R${mediaSalario:F2}");
+                Console.WriteLine($"A média de filhos por habitante é: {mediaFilhos:F2}");
+                Console.WriteLine($"O maior salário informado foi: R${maiorSalario:F2}");
+                Console.WriteLine($"Percentual de pessoas com salário até R$100,00: {percentualSalariosAte100:F2}%");
+            }
+            else
+            {
+                Console.WriteLine("Nenhum dado foi inserido.");
+            }
+        }
+    }
+}
+
+
+Exercicio06:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 15/04/2025 (terça-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+namespace Exercicio06
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.Write("Digite um número inteiro positivo: ");
+            int n = int.Parse(Console.ReadLine()); 
+            double soma = 0; // Acumulador da soma
+
+            for (int i = 1; i <= n; i++)
+            {
+                double termo = 1.0 / i; // Calcula o termo atual da série
+                Console.WriteLine($"1/{i} = {termo:F4}"); // Mostra o termo formatado
+                soma += termo; // Soma ao total
+            }
+
+            Console.WriteLine($"Soma total: {soma:F4}"); 
+        }
+    }
+}
+
+
+Exercicio07:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 15/04/2025 (terça-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+namespace Exercicio07
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.Write("Digite quantos elementos da série de Fibonacci deseja ver: ");
+            int L = int.Parse(Console.ReadLine());
+            int a = 0, b = 1;
+
+            for (int i = 0; i < L; i++)
+            {
+                Console.Write(a + " "); // Imprime o valor atual
+                int temp = a + b; // Soma os dois anteriores
+                a = b; // Atualiza os valores para o próximo ciclo
+                b = temp;
+            }
+        }
+    }
+}
+
+Exercicio08:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 15/04/2025 (terça-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+namespace Exercicio08
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.Write("Digite o valor limite da série de Fibonacci: ");
+      int L = int.Parse(Console.ReadLine()); // Valor máximo
+      int a = 0, b = 1; 
+
+      while (a < L)
+      {
+        Console.Write(a + " "); // Imprime o termo atual
+        int temp = a + b; // Calcula próximo termo
+        a = b; // Avança na sequência
+        b = temp;
+      }
+    }
+  }
+}
+
+Exercicio09:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 15/04/2025 (terça-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+namespace Exercicio09
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // Contadores para cada faixa de lucro
+            int lucroMenor10 = 0, lucroEntre10e20 = 0, lucroMaior20 = 0;
+            // Acumuladores de valores
+            double totalCompra = 0, totalVenda = 0;
+
+            while (true)
+            {
+                Console.Write("Preço de compra (0 para encerrar): ");
+                double compra = double.Parse(Console.ReadLine());
+
+                if (compra == 0) break; 
+
+                Console.Write("Preço de venda: ");
+                double venda = double.Parse(Console.ReadLine());
+
+                // Cálculo do lucro percentual
+                double lucroPercentual = ((venda - compra) / compra) * 100;
+
+                // Classificação da faixa de lucro
+                if (lucroPercentual < 10)
+                    lucroMenor10++;
+                else if (lucroPercentual <= 20)
+                    lucroEntre10e20++;
+                else
+                    lucroMaior20++;
+
+                // Soma dos totais
+                totalCompra += compra;
+                totalVenda += venda;
+            }
+
+            // Exibição dos resultados
+            Console.WriteLine($"Lucro < 10%: {lucroMenor10}");
+            Console.WriteLine($"Lucro entre 10% e 20%: {lucroEntre10e20}");
+            Console.WriteLine($"Lucro > 20%: {lucroMaior20}");
+            Console.WriteLine($"Total de compra: R$ {totalCompra:F2}");
+            Console.WriteLine($"Total de venda: R$ {totalVenda:F2}");
+            Console.WriteLine($"Lucro total: R$ {totalVenda - totalCompra:F2}");
+        }
+    }
+}
+
+
+Exercicio10:
+/**
+* PUC Minas, Campus Contagem.
+* ATP Aula Prática
+* Data: 15/04/2025 (terça-feira)
+* @author Jânio Júnio de Freitas Cardoso
+* Objetivo: praticar a criação de variáveis e tipos no C#.
+* Data e descrição da última manutenção: dd/MM/yyy - texto da alteração.
+*/
+namespace Exercicio10
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int candidato1 = 0;
+            int candidato2 = 0;
+            int candidato3 = 0;
+            int candidato4 = 0;
+            int nulos = 0;
+            int brancos = 0;
+
+            int voto;
+
+            Console.WriteLine("Digite os votos (1 a 6). Digite 0 para encerrar.");
+
+            while (true)
+            {
+                Console.Write("Código do voto: ");
+                voto = int.Parse(Console.ReadLine());
+
+                if (voto == 0)
+                    break; // Se o voto for 0, encerra o programa
+
+                // Verifica o código do voto e atualiza o contador correspondente
+                switch (voto)
+                {
+                    case 1:
+                        candidato1++;
+                        break;
+                    case 2:
+                        candidato2++;
+                        break;
+                    case 3:
+                        candidato3++;
+                        break;
+                    case 4:
+                        candidato4++;
+                        break;
+                    case 5:
+                        nulos++;
+                        break;
+                    case 6:
+                        brancos++;
+                        break;
+                    default:
+                        // Caso o usuário digite um número inválido (diferente de 0 a 6)
+                        Console.WriteLine("Código inválido! Digite um número entre 1 e 6 ou 0 para encerrar.");
+                        break;
+                }
+            }
+
+            Console.WriteLine($"Candidato 1: {candidato1} voto(s)");
+            Console.WriteLine($"Candidato 2: {candidato2} voto(s)");
+            Console.WriteLine($"Candidato 3: {candidato3} voto(s)");
+            Console.WriteLine($"Candidato 4: {candidato4} voto(s)");
+            Console.WriteLine($"Votos nulos: {nulos}");
+            Console.WriteLine($"Votos em branco: {brancos}");
+        }
+    }
+}
+

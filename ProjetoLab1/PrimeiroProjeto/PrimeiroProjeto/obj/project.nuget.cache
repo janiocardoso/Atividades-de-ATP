@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gbKk0d70gOE=",
+  "dgSpecHash": "WSqwTM9xOqY=",
   "success": true,
-  "projectFilePath": "D:\\ATP\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\ATP\\Todas Atividades\\Atividades-de-ATP\\ProjetoLab1\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\bin\Debug\net9.0\FooDarZ.exe
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\bin\Debug\net9.0\FooDarZ.deps.json
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\bin\Debug\net9.0\FooDarZ.runtimeconfig.json
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\bin\Debug\net9.0\FooDarZ.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\bin\Debug\net9.0\FooDarZ.pdb
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.AssemblyInfoInputs.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.AssemblyInfo.cs
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.csproj.CoreCompileInputs.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\refint\FooDarZ.dll
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.pdb
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\FooDarZ.genruntimeconfig.cache
+D:\ATP\Lab\ProjetoLab5\LoopDoWhile\FooDarZ\obj\Debug\net9.0\ref\FooDarZ.dll
