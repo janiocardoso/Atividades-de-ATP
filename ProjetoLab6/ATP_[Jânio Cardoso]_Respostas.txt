@@ -1,0 +1,10 @@
+Conteúdo do arquivo ATP_Jânio Cardoso_Respostas.txt:
+
+Exercicio 01- c) O programa cria um vetor de cinco posições, atribui valores a ele e imprime esses valores na tela usando um loop for.
+
+Exercicio 02- c) O programa utiliza um loop for para solicitar cinco notas ao usuário. Os valores digitados são convertidos para double e armazenados no vetor notas. Após coletar as notas, o programa imprime os valores armazenados no vetor. Os valores são exibidos na ordem em que foram inseridos.
+
+Exercicio 03- c) Declara um vetor notas com 5 posições. Lê 5 notas realizadas pelo usuário, Calcula a soma dessas notas e faz a media.
+
+Exercicio 04- b) Cria um vetor notas com 5 posições. Lê 5 notas digitadas pelo usuário, Calcula a soma de todas as notas, faz a média dessas notas e identifica a menor nota digitada.
+
