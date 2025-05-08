@@ -1,0 +1,14 @@
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\bin\Debug\net9.0\Exercicio03.exe
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\bin\Debug\net9.0\Exercicio03.deps.json
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\bin\Debug\net9.0\Exercicio03.runtimeconfig.json
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\bin\Debug\net9.0\Exercicio03.dll
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\bin\Debug\net9.0\Exercicio03.pdb
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.AssemblyInfoInputs.cache
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.AssemblyInfo.cs
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.csproj.CoreCompileInputs.cache
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.dll
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\refint\Exercicio03.dll
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.pdb
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\Exercicio03.genruntimeconfig.cache
+D:\Material aula\ATP\Lab\ProjetoLab8\Exercicio03\obj\Debug\net9.0\ref\Exercicio03.dll
